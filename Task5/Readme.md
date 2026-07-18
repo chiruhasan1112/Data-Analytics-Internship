@@ -27,12 +27,12 @@ These projects demonstrate the **end-to-end process of transforming raw data int
 
 Below are the projects completed during the internship.
 
-| Task | Project Title | Description | Repository |
-|-----|--------------|-------------|------------|
-| Task-1 | Data Cleaning & Analysis | Data preprocessing and preparation for analysis | https://github.com/Sasikumar-19/Data_Wrangling |
-| Task-2 | Exploratory Data Analysis | Business insights using Python and SQL | https://github.com/Sasikumar-19/Exploratory_data_analysis |
-| Task-3 | Interactive Dashboard | KPI analysis and Power BI dashboard | https://github.com/Sasikumar-19/Deep_dive_analysis_Interactive_dashboard |
-| Task-4 | A/B Testing & Hypothesis Testing | Statistical validation of experimental results | https://github.com/Sasikumar-19/Statstical_Validation|
+| Task | Project Title | Description|
+|-----|--------------|-------------|
+| Task-1 | Data Cleaning & Analysis | Data preprocessing and preparation for analysis |
+| Task-2 | Exploratory Data Analysis | Business insights using Python and SQL |
+| Task-3 | Interactive Dashboard | KPI analysis and Power BI dashboard |
+| Task-4 | A/B Testing & Hypothesis Testing | Statistical validation of experimental results |
 
 ---
 
